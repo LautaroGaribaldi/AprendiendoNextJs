@@ -1,0 +1,15 @@
+.pokeCard {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+}
+
+.pokeCardConteiner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}

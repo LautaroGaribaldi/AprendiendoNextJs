@@ -1,0 +1,11 @@
+.regionConteiner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.regionPictures {
+    width: 400px;
+    height: 400px;
+}

@@ -1,0 +1,17 @@
+.navBar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 300px;
+}
+
+.navBarConteiner {
+    display: flex;
+    flex-direction: row;
+    width: 388px;
+}
+
+.title {
+    text-align: center;
+}
